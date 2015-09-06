@@ -1,5 +1,5 @@
 # Makefile for less.
-# for mingw gcc compiler
+# Windows version; MinGW gcc compiler
 
 # `make -f Makefile.mingw`
 
