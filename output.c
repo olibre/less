@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 1984-2015  Mark Nudelman
+ * Copyright (C) 1984-2016  Mark Nudelman
  *
  * You may distribute under the terms of either the GNU General Public
  * License or the Less License, as specified in the README file.
@@ -37,6 +37,7 @@ extern int bo_fg_color, bo_bg_color;
 extern int ul_fg_color, ul_bg_color;
 extern int so_fg_color, so_bg_color;
 extern int bl_fg_color, bl_bg_color;
+extern int sgr_mode;
 #endif
 
 /*
